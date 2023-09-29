@@ -1,3 +1,9 @@
+# UFMT - Ciencia da computacao
+# Programacao de computadores
+# Prof. Ivairton
+# 
+# Exercicio de programacao 1
+
 def main():
     x = int(input("Informe um valor para x: "))
     y = int(input("Informe um valor para y: "))
