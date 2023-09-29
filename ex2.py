@@ -5,12 +5,12 @@
 # Exercicio de programacao 1
 
 def main():
-    num = int(input("Informe um valor inteiro: "))
+    val = int(input("Informe um valor inteiro: "))
 
-    suc = num + 1
-    ant = num - 1
+    suc = val + 1
+    ant = val - 1
 
-    print("Valor de entrada: ", num)
+    print("Valor de entrada: ", val)
     print("Sucessor: ", suc)
     print("Antecessor: ", ant)
 
