@@ -5,9 +5,8 @@
 # Exercicio de programacao 1
 
 def main():
-    c = 0
-    while (c < 5):
-        print(i, " ")
+    for i in range(0,6):
+        print(i)
 
 if __name__ == "__main__":
     main()

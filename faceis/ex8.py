@@ -4,9 +4,9 @@
 # 
 # Exercicio de programacao 1
 
-def main(i):
-    for i in range(0,2):
-        print(i)
+def main():
+    num = int(input("Informe um valor inteiro: "))
 
-if __name__ == "__main__":
-    main()
+
+    for  i in range(num, 0):
+        print(i)
