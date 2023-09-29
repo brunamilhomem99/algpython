@@ -10,7 +10,7 @@ def main():
     if (val > 20):
         print("O valor de entrada foi: ", val)
     else:
-        print("O valor de entrada eh maior que 20.")
+        print("O valor de entrada eh menor que 20.")
 
 if __name__ == "__main__":
     main()
