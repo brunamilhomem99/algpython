@@ -10,5 +10,5 @@ def main():
 
     print("O produto dos valores de entrada eh: ", x * y)
 
-if __name__ in "__main__":
+if __name__ == "__main__":
     main()
