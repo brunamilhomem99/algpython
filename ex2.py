@@ -14,5 +14,5 @@ def main():
     print("Sucessor: ", suc)
     print("Antecessor: ", ant)
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
