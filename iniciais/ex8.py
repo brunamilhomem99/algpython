@@ -8,5 +8,13 @@ def main():
     num = int(input("Informe um valor inteiro: "))
 
 
-    for  i in range(num, 0):
+    for i in range(num, -1, -1):
         print(i)
+
+    print("\n")
+
+    for i in range(0, num + 1):
+        print(i)
+
+if __name__ == "__main__":
+    main()
